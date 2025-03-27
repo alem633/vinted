@@ -1,1 +1,5 @@
-# vinted
+# Dependencies
+
+- requests
+- pandas
+- selenium

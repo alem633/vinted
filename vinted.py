@@ -27,7 +27,7 @@ driver.close()
 
 url = "https://www.vinted.it/api/v2/catalog/items"
 
-querystring = {"page":"1","per_page":"96","search_text":f"{query}","catalog_ids":"","size_ids":"","brand_ids":"","status_ids":"","color_ids":"","material_ids":""}
+querystring = {"page":"1","per_page":"960","search_text":f"{query}","catalog_ids":"","size_ids":"","brand_ids":"","status_ids":"","color_ids":"","material_ids":""}
 
 payload = ""
 headers = {
